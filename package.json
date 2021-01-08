@@ -1,0 +1,19 @@
+{
+  "name": "react_study",
+  "version": "1.0.0",
+  "description": "react_study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyw1006/react_study.git"
+  },
+  "author": "jjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeyw1006/react_study/issues"
+  },
+  "homepage": "https://github.com/leeyw1006/react_study#readme"
+}
